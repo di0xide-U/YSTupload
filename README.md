@@ -1,0 +1,2 @@
+# YSTupload
+亿赛通电子文档安全管理系统-/UploadFileFromClientServiceForClient 任意文件上传漏洞
