@@ -29,3 +29,8 @@ Content-Length: 1
 shell内容
 ```
 
+
+
+
+人人为我，我为人人。转载请标明出处：https://github.com/di0xide-U/YSTupload/
+
